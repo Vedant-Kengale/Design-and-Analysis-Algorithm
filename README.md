@@ -1,4 +1,4 @@
-**Design & Analysis of Algorithms Laboratory**
+*Design & Analysis of Algorithms Laboratory*
 *Program:* B.Tech I.T
 *Semester:* V
 *Course:* Design & Analysis of Algorithms Laboratory
