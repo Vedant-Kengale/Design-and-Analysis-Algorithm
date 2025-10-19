@@ -1,0 +1,27 @@
+Enter Number of Items: 4
+
+Enter Name of Item1: Rice
+Enter Weight of Item: 10
+Enter Utility Value of Item: 60
+Is the Item is Perishable? (true/false): false
+
+Enter Name of Item2: Medicines
+Enter Weight of Item: 20
+Enter Utility Value of Item: 100
+Is the Item is Perishable? (true/false): true
+
+Enter Name of Item3: Blankets
+Enter Weight of Item: 30
+Enter Utility Value of Item: 120
+Is the Item is Perishable? (true/false): false
+
+Enter Name of Item4: Food
+Enter Weight of Item: 15
+Enter Utility Value of Item: 90
+Is the Item is Perishable? (true/false): true
+
+Enter Truck Capacity (in kg): 50
+Maximum Total Utility Value: 260
+Approximate Total Utility Value: 220.0
+Enter Number of Trucks: 2
+Maximum Utility Value: 380
