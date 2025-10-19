@@ -1,0 +1,11 @@
+=== SWIFTCARGO LOGISTICS ROUTE OPTIMIZATION ===
+Optimal Route: [W2, H2, D1]
+Total Cost: 25.0
+
+Updating cost due to traffic on W2 -> H2...
+New Optimal Route: [W2, H3, D1]
+New Total Cost: 30.0
+
+Simulating road closure: H3 -> D1
+Updated Optimal Route: [W1, H2, D1]
+Updated Total Cost: 35.0
