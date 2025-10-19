@@ -1,0 +1,113 @@
+ ===StreamFlix Movie Recommendation System === 
+Enter Number of Movies: 
+5
+
+Movie 1 details: 
+Title
+Inception
+IMDB Rating
+8.8
+Release Year: 
+2010
+Watch Time Popularity: 
+9.5
+
+Movie 2 details: 
+Title
+Interstellar
+IMDB Rating
+8.6
+Release Year: 
+2014
+Watch Time Popularity: 
+8.9
+
+Movie 3 details: 
+Title
+Oppenheimer
+IMDB Rating
+9.0
+Release Year: 
+2023
+Watch Time Popularity: 
+9.8
+
+Movie 4 details: 
+Title
+Avengers - Endgame
+IMDB Rating
+8.4
+Release Year: 
+2019
+Watch Time Popularity: 
+9.7
+
+Movie 5 details: 
+Title
+Minecraft
+IMDB Rating
+9.1
+Release Year: 
+2025
+Watch Time Popularity: 
+9.2
+
+Sort Movies By: 
+1. IMDB Rating
+2. Release Year
+3. Watch Time Popularity
+4. Exit
+Enter Your Choice (1-4): 
+1
+
+== Sorted Movie List ==
+Avengers - Endgame   | IMDB: 8.4 | Year: 2019 | Popularity: 9.7
+Interstellar         | IMDB: 8.6 | Year: 2014 | Popularity: 8.9
+Inception            | IMDB: 8.8 | Year: 2010 | Popularity: 9.5
+Oppenheimer          | IMDB: 9.0 | Year: 2023 | Popularity: 9.8
+Minecraft            | IMDB: 9.1 | Year: 2025 | Popularity: 9.2
+
+Sorting Completed in 12.3080 ms
+
+Sort Movies By: 
+1. IMDB Rating
+2. Release Year
+3. Watch Time Popularity
+4. Exit
+Enter Your Choice (1-4): 
+2
+
+== Sorted Movie List ==
+Inception            | IMDB: 8.8 | Year: 2010 | Popularity: 9.5
+Interstellar         | IMDB: 8.6 | Year: 2014 | Popularity: 8.9
+Avengers - Endgame   | IMDB: 8.4 | Year: 2019 | Popularity: 9.7
+Oppenheimer          | IMDB: 9.0 | Year: 2023 | Popularity: 9.8
+Minecraft            | IMDB: 9.1 | Year: 2025 | Popularity: 9.2
+
+Sorting Completed in 0.3070 ms
+
+Sort Movies By: 
+1. IMDB Rating
+2. Release Year
+3. Watch Time Popularity
+4. Exit
+Enter Your Choice (1-4): 
+3
+
+== Sorted Movie List ==
+Interstellar         | IMDB: 8.6 | Year: 2014 | Popularity: 8.9
+Minecraft            | IMDB: 9.1 | Year: 2025 | Popularity: 9.2
+Inception            | IMDB: 8.8 | Year: 2010 | Popularity: 9.5
+Avengers - Endgame   | IMDB: 8.4 | Year: 2019 | Popularity: 9.7
+Oppenheimer          | IMDB: 9.0 | Year: 2023 | Popularity: 9.8
+
+Sorting Completed in 0.2930 ms
+
+Sort Movies By: 
+1. IMDB Rating
+2. Release Year
+3. Watch Time Popularity
+4. Exit
+Enter Your Choice (1-4): 
+4
+Existing StremFlix System....
