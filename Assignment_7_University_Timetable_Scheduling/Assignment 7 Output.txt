@@ -1,0 +1,29 @@
+Enter Number of Courses: 
+5
+Enter Course Name 1: Mathematics
+Enter Course Name 2: Physics
+Enter Course Name 3: Chemistry
+Enter Course Name 4: Biology
+Enter Course Name 5: English
+Enter Number of Conflicts (edges): 6
+Enter Conflicting Course Pairs (Index start from 0): 
+Conflict 1: 0 1
+
+Conflict 2: 0 2
+
+Conflict 3: 1 3
+
+Conflict 4: 2 3
+
+Conflict 5: 3 4
+
+Conflict 6: 1 4
+
+=== University Exam Timetable ===
+Total Exam Slots Required: 3
+---------------------------------
+Course: Mathematics --> Slot 1
+Course: Physics --> Slot 2
+Course: Chemistry --> Slot 2
+Course: Biology --> Slot 1
+Course: English --> Slot 3
