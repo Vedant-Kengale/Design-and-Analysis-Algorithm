@@ -1,45 +1,56 @@
 ==== Emergency Relief Supply Distribution ====
-Enter Number of items: 
-3
+Enter number of items: 5
 
-item 1 details:
-Name: 
-Food
-Weight (in kg): 
-20
-Utility value: 
-100
-Divisible (True/False): 
-true
+Item 1 details:
+Name: Medical Kits
+Weight (in kg): 10
+Utility value: 100
+Priority (1 = highest): 1
+Divisible (true/false): false
 
-item 2 details:
-Name: 
-Medicine
-Weight (in kg): 
-30
-Utility value: 
-150
-Divisible (True/False): 
-false
+Item 2 details:
+Name: Infant Formula
+Weight (in kg): 5
+Utility value: 50
+Priority (1 = highest): 1
+Divisible (true/false): false
 
-item 3 details:
-Name: 
-Water
-Weight (in kg): 
-10
-Utility value: 
-60
-Divisible (True/False): 
-true
+Item 3 details:
+Name: Drinking Water
+Weight (in kg): 30
+Utility value: 90
+Priority (1 = highest): 2
+Divisible (true/false): true
 
-Enter boat capacity (kg): 
-40
+Item 4 details:
+Name: Food Packets
+Weight (in kg): 20
+Utility value: 60
+Priority (1 = highest): 3
+Divisible (true/false): true
 
-===========================
-Item            Weight     Value      Taken          
+Item 5 details:
+Name: Blankets
+Weight (in kg): 15
+Utility value: 45
+Priority (1 = highest): 3
+Divisible (true/false): false
 
-===========================
-Water           10.00      60.00      Full           
-Food            20.00      100.00     Full           
-=============================
-Maximun Utility Value: 160.00
+Enter maximum weight capacity of the boat (in kg): 40
+
+Sorted Items (by Priority, then Value/Weight):
+Item                 Weight     Value      Priority   Value/Weight    Type           
+Medical Kits         10.00      100.00     1          10.00           Indivisible    
+Infant Formula       5.00       50.00      1          10.00           Indivisible    
+Drinking Water       30.00      90.00      2          3.00            Divisible      
+Food Packets         20.00      60.00      3          3.00            Divisible      
+Blankets             15.00      45.00      3          3.00            Indivisible    
+
+Items selected for transport:
+ - Medical Kits: 10 kg, Utility = 100, Priority = 1, Type = Indivisible
+ - Infant Formula: 5 kg, Utility = 50, Priority = 1, Type = Indivisible
+ - Drinking Water: 25 kg, Utility = 75, Priority = 2, Type = Divisible
+
+===== Final Report =====
+Total weight carried: 40.00 kg
+Total utility value carried: 225.00 units
